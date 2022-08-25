@@ -1,0 +1,11 @@
+/*chỉ style cho những input có type là email*/
+/*có thể chỉ đích danh input muốn style bằng type hoặc name hoặc cả hai*/
+input[type=email]{
+    background-color:#000;
+}
+input[type=tel]{
+    background-color:#ccc;
+}
+input[type=tel][name=hotline]{
+    background-color:#333;
+}
