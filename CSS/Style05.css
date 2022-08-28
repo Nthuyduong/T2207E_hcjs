@@ -23,7 +23,7 @@ img{
     width:100%;
 }
 .container{
-    float:none;
+    float:none;inner
     width: 1200px;
     margin: 0 auto;
 }
