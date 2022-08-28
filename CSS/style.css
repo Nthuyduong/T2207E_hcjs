@@ -1,0 +1,23 @@
+body{
+    background:#ccc;
+    background-image:url("../img/anh1.jpg");
+    background-size:cover;
+    /*background-repeat: no-repeat;*/
+h1{
+    color: #0004ff;
+    text-transform:uppercase;/*capitalize:in hoa chu cai dau*/
+    text-align:center;
+}
+p{
+    color:rgba(255,0,0,0.5);
+    font-size:16px;
+    font-weight:700;
+    font-family:sans-serif;
+    line-height:1.25;
+    text-align:left;
+    width:400px;
+}
+a{
+    text-decoration:none;
+    font-style:italic;
+}

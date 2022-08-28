@@ -1,0 +1,105 @@
+/*top-page*/
+.top-page{
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    padding: 20px 0px 20px 0px;
+}
+li{
+    list-style:none;
+}
+.top-page li{
+    float:left;
+}
+a{
+    color:#333;
+}
+/*top-page left*/
+.top-left{
+    float: left;
+}
+.top-left li a i{
+    margin-right:5px;
+}
+.top-left li a{
+    margin-right:10px;
+}
+.top-left li a i{
+    margin-right:5px;
+}
+/*top-page right*/
+.top-right{
+    float:right;
+}
+.top-right li a{
+    margin-left:10px;
+}
+.top-right li a i{
+    margin-right:5px;
+}
+
+/*header*/
+.header{
+    background-color:#fff;
+    padding: 20px 0px 20px 0px;
+}
+.logo{
+    float:left;
+}
+.top-cart{
+    float: right;
+    margin-left:20px;
+}
+.top-cart li{
+    float:left;
+}
+.top-cart li a{
+    margin-left: 10px;
+}
+.menu{
+    float: right;
+}
+.menu li{
+    float:left;
+}
+.menu li a{
+    margin-left:10px;
+}
+/*main*/
+.main{
+    background-color:#ccc;
+}
+.sidebar{
+    width:25%;
+    float:right;
+}
+.content{
+    width:75%;
+    float:right;
+}
+/*aside-sidebar*/
+.sidebar{
+    width:25%;
+}
+/*article-content*/
+.content{
+    width:75%;
+}
+.blog{
+    width:50%;
+    padding-right:10px;
+}
+.row{
+    display:flex;
+    margin-bottom:10px;
+}
+.box-blog{
+    padding:10px;
+}
+.box-title{
+    font-size:16px;
+    font-weight:700;
+    color: #ff8943;
+}
+.box-text{
+    margin:10px 0px 10px 0px;
+}
