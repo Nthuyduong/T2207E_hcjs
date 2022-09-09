@@ -1,0 +1,15 @@
+.forecast-weather{
+    background-image: url("../img/weather.jpeg");
+    background-size:cover;
+}
+.box-weather{
+    float:left;
+    width:calc(25% - 30px);
+    background-color: #7fc4fc40;
+    padding:15px;
+    margin:15px;
+}
+.box-weather img{
+    transform: translate(150px,-80px);
+    //margin left - top//
+}
