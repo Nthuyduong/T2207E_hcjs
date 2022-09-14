@@ -27,10 +27,12 @@ img{
 }
 h1{
     margin:auto;
+    color:#fff;
+    font-weight:700;
 }
 .head{
     padding:40px;
-    background-color: #0bb78f;
+    background-color: #a035fd;
 }
 .pass{
     margin-top:20px;
@@ -42,5 +44,11 @@ h1{
 }
 .check{
     font-size:14px;
-
+    margin-bottom:20px;
+}
+button{
+    width:100%;
+    padding-top:5px;
+    padding-bottom:5px;
+    background-color: #a035fd;
 }
