@@ -15,6 +15,10 @@ img{
     max-width:100%;
     display: block;
 }
+a{
+    color: #a035fd;
+    text-decoration:none;
+}
 .row{
     display:flex;
 }
@@ -51,4 +55,5 @@ button{
     padding-top:5px;
     padding-bottom:5px;
     background-color: #a035fd;
+    color:#fff;
 }
